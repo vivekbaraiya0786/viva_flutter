@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+Design a working digital clock. Place a button "Mark My Thought" below that clock.
+After placing this button, save the current date-time and your thought in local 
+storage using shared preferences.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/vivekbaraiya0786/viva_flutter/assets/126376629/da79b1db-280a-45e5-8e06-93dc3c813d0c
+
